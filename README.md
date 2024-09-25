@@ -1,4 +1,4 @@
-# LEARN CSS Grid
+# Learn CSS Grid Scrimba Course
 
 This project is a great challenge for learning Grid and Flexbox, inspired by Scribma. It provides a practical application of responsive design techniques and demonstrates how to effectively use CSS Grid and Flexbox for layout management.
 
