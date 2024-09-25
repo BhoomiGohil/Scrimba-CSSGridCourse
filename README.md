@@ -26,8 +26,8 @@ To view the website locally, follow these steps:
 
 1. Clone the repository or download the files.
    ```
-   git clone https://github.com/BhoomiGohil/html-css-grid-layout-2.git
-   cd html-css-grid-layout-2
+   git clone https://github.com/BhoomiGohil/html-css-scrimba-learn-css-grid-course.git
+   cd html-css-scrimba-learn-css-grid-course
    ```
 2. Open the `Index.html` file in your web browser.
    ```
